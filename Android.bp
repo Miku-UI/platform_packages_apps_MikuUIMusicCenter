@@ -1,0 +1,12 @@
+android_app_import{
+    name:"MikuUIMusicCenter",
+    apk:"MikuUIMusicCenter.apk",
+    presigned: false,
+    preprocessed: false,
+    certificate : "platform",
+    dex_preopt:{
+        enabled: false,
+    },
+    product_specific: true,
+}
+
