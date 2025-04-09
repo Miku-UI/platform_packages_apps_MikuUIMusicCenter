@@ -7,8 +7,8 @@ This is an application that can provide networked lyrics service for any music p
 - Provide status bar lyrics for unsupported music players like Spotify, Apple music etc.
 - Control your media in one place.
 - A beautiful widget! :3
-- Forward music to your Windows/Linux PC.
-- Forward lyrics to your Windows/Linux PC.
+- Forward music to your Windows/Linux/Mac PC.
+- Forward lyrics to your Windows/Linux/Mac PC.
 
 ## Screenshots
 
